@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabiul Farhan Nabil</h1>
 <h3 align="center">A Computer Science student who is passionate about Data Science</h3>
 
-- 🔭 I’m currently working on **Decision Tree**
+- 🔭 I’m currently working on **Decision Tree on Tweet data**
 
 - 🌱 I’m currently learning **Python, SQL, MySQL**
 
@@ -19,6 +19,6 @@
 
 
 
-# Dataset_Visualisation
+# Decision Tree
 In this project I have taken the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api. The tweets have been labeled (0 = negative, 4 = positive). 
 Here I have shown tokenization, vectorization on tweets. Here I have applied Decision Tree on twitter dataset.
